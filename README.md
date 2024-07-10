@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b81466b358952435e252c65fbdd538ecf1da40656056cef0a19c00b67f41d54e/68747470733a2f2f6172742e706978696c6172742e636f6d2f7372323731326162306233356563642e676966">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj710&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj710" /> </p>
 
 - 🔭 I’m currently working on **E commerce website**
 
