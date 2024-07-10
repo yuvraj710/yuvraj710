@@ -1,5 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)](https://yuvraj710.io)
-<h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yuvraj+Singh!;" />
+</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" height="450" src="https://camo.githubusercontent.com/b81466b358952435e252c65fbdd538ecf1da40656056cef0a19c00b67f41d54e/68747470733a2f2f6172742e706978696c6172742e636f6d2f7372323731326162306233356563642e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj710&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj710" /> </p>
@@ -52,3 +54,7 @@
 <br/><br/>
 
 <hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;See+you+soon+✌🏻;" />
+</h3>
