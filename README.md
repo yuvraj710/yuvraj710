@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ys751693@gmail.com**
 
-- 📄 Know about my experiences [Resume.pdf](https://drive.google.com/file/d/1f-g-M9RBlcMjmrlF-slhjn-FIhkQluiN/view?usp=drive_link)
+- 📄 Know about my experiences [Resume.pdf](https://drive.google.com/file/d/1d1ObFAqVvgAI2M43_VEelliW2CK2o4pn/view?usp=sharing)
 
 - ⚡ Fun fact **Coding Improves Problem Solving Skills**
 
