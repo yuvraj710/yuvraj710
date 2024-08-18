@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" height="450" src="https://camo.githubusercontent.com/b81466b358952435e252c65fbdd538ecf1da40656056cef0a19c00b67f41d54e/68747470733a2f2f6172742e706978696c6172742e636f6d2f7372323731326162306233356563642e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj710&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj710" /> </p>
 
-- 🔭 I’m currently working on **E commerce website**
+- 🔭 I’m currently working on **E-commerce website**
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ys751693@gmail.com**
 
-- 📄 Know about my experiences [Resume.pdf](https://drive.google.com/file/d/1d1ObFAqVvgAI2M43_VEelliW2CK2o4pn/view?usp=sharing)
+- 📄 Know about my experiences [Resume.pdf](https://drive.google.com/file/d/1Wa75f9Fxsi96G6kvAlTTHEPVoaQ50XZ5/view?usp=drive_link)
 
 - ⚡ Fun fact **Coding Improves Problem Solving Skills**
 
